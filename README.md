@@ -13,6 +13,8 @@ login_failure.jsp页面。
 使用JSP+JavaBean完成用户登录功能
 ### JavabeansDemo1
 Javabean示例。[传送](http://www.cnblogs.com/shiy/p/6999390.html)
+### CookieDemo1
+实现记忆用户和密码功能
 
 
 
