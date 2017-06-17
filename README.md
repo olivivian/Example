@@ -11,6 +11,8 @@ JSP内置对象application,session，page等。[传送](http://www.cnblogs.com/s
 login_failure.jsp页面。
 ### JspLoginDemoByModel1
 使用JSP+JavaBean完成用户登录功能
+###JavabeansDemo1
+Javabean示例。[传送](http://www.cnblogs.com/shiy/p/6999390.html)
 
 
 
